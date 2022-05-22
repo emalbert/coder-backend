@@ -1,7 +1,7 @@
 // Eduardo Malbert
 // Comisión 30995
 // Profesor: Diego Jofre
-//Desafío 01 - Manejo de Archivos en Javascript
+// Desafío 01 - Manejo de Archivos en Javascript
 
 
 class Usuario {
